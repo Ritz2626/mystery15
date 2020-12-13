@@ -1,0 +1,39 @@
+body{
+  background-image: url("eXpresso.jpg");
+}
+h1
+{
+  text-align:center;
+  color:yellow;
+  font-size: 50px;
+   text-shadow: 15px 8px 14px #000000;
+  font-family: cursive;
+  margin-bottom:50px;
+  background-color:black;
+  margin-left:200px;
+  margin-right:200px;
+  padding:0.2cm;
+  opacity:30%;
+}
+img{
+  height:400px;
+  box-shadow: :10px 4px 1px black;
+  display:inline-block;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+   filter:         drop-shadow(10px 15px 15px #222);
+   margin-left:50px;
+   margin-right:40px;
+   margin-bottom:50px;
+   border: 15px double black;
+
+}
+.img1{
+  height:400px;
+  box-shadow: :2px 4px 1px black;
+  display:inline-block;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+   filter:         drop-shadow(15px 15px 15px #222);
+   margin-left:20px;
+   margin-right:40px;
+   margin-bottom:50px;
+}

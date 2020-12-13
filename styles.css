@@ -1,0 +1,10 @@
+body{
+  /**background-image: url("Peach.jpg");*/
+  background-color: white;
+
+}
+h1,h2{
+  text-align:center;
+  color:#eee3e7;
+  font-size:40px;
+}
